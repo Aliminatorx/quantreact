@@ -1,0 +1,212 @@
+.container1{
+  position:relative;
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  width: 100%; 
+}
+#truckbg{
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.qhead{
+  position: absolute;
+  color: #1A3779;
+  font-weight: bold;
+  font-size:4.5vw;
+  width: 100%;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#qbtn{
+    position: absolute;
+    color: #1A3779;
+    font-size: 1.5vw;
+    font-weight: bold;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: solid;
+    opacity: 0.7;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.float-container1 {
+  padding: 40px 0px 40px 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.float-child1 {
+  text-align: center;
+  width: 50%;
+  flex: 40%;
+  border-radius: 20px;
+  padding: 50px 50px 50px 50px;
+  background-color: white;
+  height: auto;
+}
+.videohigh{
+display: flex;
+flex: 40%;
+width: 50%;
+justify-content: center;
+padding: 70px 50px 50px 50px;
+height: auto;
+}
+.float-child1:first-child {
+  margin-right: 10px;
+} 
+.highhead{
+    font-weight: bold;
+    font-size: 2em;
+    padding: 30px 20px 20px 20px;
+    text-align: center;
+}
+.highdes{
+  font-size: 20px;
+  font-weight:450;
+  padding: 10px;
+  color: #1A3779;
+}
+#highbtn{
+  background-color: #1A3779;
+  border:3px solid #1A3779;
+  font-size:large;
+  font-weight: bold;
+  padding: 5px 5px 5px 5px;
+}
+#highbtn:hover{
+  color:#1A3779;
+  background-color: white;
+}
+.service{
+  text-align: center;
+  padding: 10px;
+  color: white;
+  background-color: #1A3779;
+}
+.servicehead{
+  font-size: 35px;
+}
+.servicesrow{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 70px 200px 40px 200px;
+  grid-gap: 20px;
+}
+.cards{
+  padding: 10px 10px 50px 10px;
+  flex: 30%;
+  text-align: center;
+}
+.card{
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  padding: 10px 10px 20px 10px;
+}
+.card-title{
+  font-size: 25px;
+  font-weight: bold;
+}
+#cardbtn{
+  background-color: #1A3779;
+  border:3px solid #1A3779;
+  font-weight: bold;
+}
+#cardbtn:hover{
+  color:#1A3779;
+  background-color: white;
+}
+.float-container2{
+ padding: 0px 50px 80px 50px;
+ display: flex; 
+ flex-wrap: wrap;
+}
+.float-child2{
+  flex: 40%;
+  width: 50%;
+  justify-content: center;
+  padding: 70px 30px 50px 50px;
+  height: auto;
+  color:white;
+  border-radius: 10px;
+  background-color:#0f2047;
+}
+.float-form{
+  display: flex;
+  flex: 40%;
+  width: 50%;
+  justify-content: center;
+  padding: 50px 50px 50px 50px;
+  height: auto;
+  border:40px solid #F7F7F7;
+  border-radius: 50px;
+  background-color:black;
+}
+.float-child2:first-child {
+  margin-right: 40px;
+} 
+.hirehead{
+  padding: 20px 20px 20px 20px;
+  font-weight: 600;
+}
+.hiredes{
+  padding: 10px 10px 20px 10px;
+}
+.subhead{
+ font-size: 35px;
+ font-weight: 500;
+ padding: 30px 5px 20px 30px;
+ text-decoration: none;
+ color: rgb(61, 61, 231);
+}
+.subdes{
+  padding: 10px 10px 10px 10px;
+  padding-left: 45px;
+}
+#ic{
+  font-size: 35px;
+}
+.formhead{
+  font-size: 45px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+.contactform{
+  width: 100%;
+  height: auto;
+}
+.formdes{
+    color:white;
+    padding: 20px 0px 0px 0px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    opacity: 0.9;
+}
+.lastcall{
+padding: 100px;
+color: #F7F7F7;
+background-color: #1A3779;
+text-align: center;
+}
+.lastic{
+  width: 8%;
+  padding: 10px 10px 10px 10px;
+}
+.lasthead{
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.lastno{
+  text-decoration: none;
+  color: rgb(61, 61, 231);
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+}

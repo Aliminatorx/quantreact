@@ -1,0 +1,30 @@
+.customerhead {
+    font-weight: bold;
+    font-size: 4em;
+    padding: 50px 50px 50px 50px;
+}
+.float-container {
+    border: 1px solid #fff;
+    padding: 5px 0px 0px 0px;
+    display: flex;
+}
+.float-child{
+    width: 50%;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    height: auto;
+}  
+.helpcus{
+    font-weight: bold;
+    font-size: 3em;
+}
+.helpdes{
+    font-size: large;
+    padding: 20px 10px 10px 0px;
+}
+.customersuppimg{
+    width: 90%;
+    height: auto;
+    border-radius: 25px;
+    padding: 20px 20px 20px 20px;
+}
